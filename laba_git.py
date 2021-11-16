@@ -1,0 +1,1 @@
+print('Demonstriruem rabotu s gitom')
